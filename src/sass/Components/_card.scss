@@ -1,0 +1,60 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 15px auto;
+	&__pagination {
+		display: flex;
+	}
+}
+
+.card {
+	max-width: 300px;
+	margin: 10px;
+	@include shadow;
+	&__img {
+		object-fit: cover;
+		min-height: 200px;
+	}
+	&__body {
+		&__texts {
+			margin: 10px 0;
+		}
+		&__text {
+			font-weight: bold;
+		}
+	}
+}
+
+.paginationBttns {
+	margin-top: 10px;
+	width: 80%;
+	height: 40px;
+	list-style: none;
+	display: flex;
+	justify-content: center;
+}
+.paginationBttns a {
+	padding: 10px;
+	margin: 8px;
+	border-radius: 5px;
+	border: 1px solid #2b2eff;
+	background-color: white;
+	color: #2b2eff;
+	cursor: pointer;
+}
+
+.paginationBttns a:hover {
+	color: white;
+	background-color: #2b2eff;
+}
+
+.paginationActive a {
+	color: white;
+	background-color: #2b2eff;
+}
+
+.paginationDisabled a {
+	color: grey;
+	background-color: white;
+}

@@ -1,0 +1,20 @@
+.game {
+	&__header {
+		justify-content: center;
+	}
+	&__title {
+		text-shadow: 1px 1px 1px rgb(26, 26, 26);
+	}
+	&__genres {
+		font-weight: bold;
+	}
+	&__genre {
+		font-weight: normal;
+		display: inline;
+		text-decoration: underline;
+		margin-left: 10px;
+	}
+	&__footerBtn {
+		width: 100%;
+	}
+}
