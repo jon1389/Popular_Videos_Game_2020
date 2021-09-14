@@ -1,10 +1,8 @@
 ## Installation
 
-1. Ouvrez un terminal et tapez cd frontend pour se rendre dans le dossier frontend
+1. Ouvrez un terminal et tapez `npm install` pour installer les dépendances
 
-2. Tapez npm install pour installer les dépendances du frontend
-
-3. Renommez le fichier `".env.prod"` en `".env"` et remplacer l'API_KEY par la vôtre.
+2. Renommez le fichier `".env.prod"` en `".env"` et remplacer l'API_KEY par la vôtre.
 
 ## Lancer l'application
 
