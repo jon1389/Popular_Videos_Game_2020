@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Popular_Videos_Game_2020/static/css/main.0263e5c7.chunk.css",
-    "main.js": "/Popular_Videos_Game_2020/static/js/main.f109017c.chunk.js",
-    "main.js.map": "/Popular_Videos_Game_2020/static/js/main.f109017c.chunk.js.map",
+    "main.js": "/Popular_Videos_Game_2020/static/js/main.c816566e.chunk.js",
+    "main.js.map": "/Popular_Videos_Game_2020/static/js/main.c816566e.chunk.js.map",
     "runtime-main.js": "/Popular_Videos_Game_2020/static/js/runtime-main.466b7921.js",
     "runtime-main.js.map": "/Popular_Videos_Game_2020/static/js/runtime-main.466b7921.js.map",
     "static/css/2.10bcb7c7.chunk.css": "/Popular_Videos_Game_2020/static/css/2.10bcb7c7.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.10bcb7c7.chunk.css",
     "static/js/2.e545a8fd.chunk.js",
     "static/css/main.0263e5c7.chunk.css",
-    "static/js/main.f109017c.chunk.js"
+    "static/js/main.c816566e.chunk.js"
   ]
 }
